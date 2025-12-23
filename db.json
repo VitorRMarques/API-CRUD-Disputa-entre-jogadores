@@ -1,0 +1,231 @@
+{
+  "jogadores": [
+    {
+      "nome": "Vitor Marques",
+      "idade": "23",
+      "saldo": 26000,
+      "detalhes": "Jogador veterano de Longa data mas um pouco impaciente",
+      "status": "i",
+      "id": "8821"
+    },
+    {
+      "id": "4f78",
+      "nome": "olof",
+      "idade": "32",
+      "saldo": 3000,
+      "detalhes": "boneco de neve",
+      "status": "i"
+    },
+    {
+      "id": "8c73",
+      "nome": "Fallen",
+      "idade": "35",
+      "saldo": 45000,
+      "detalhes": "jogador profissional de csgo",
+      "status": "i"
+    },
+    {
+      "id": "a36b",
+      "nome": "vilhena",
+      "idade": "30",
+      "saldo": 25911,
+      "detalhes": "Youtuber gamer viral de GTA V",
+      "status": "i"
+    },
+    {
+      "nome": "Yago",
+      "idade": "26",
+      "saldo": 57000,
+      "detalhes": "rico e gosta de aposta e aventuras complexas",
+      "status": "i",
+      "id": "711d"
+    },
+    {
+      "nome": "Kalifa",
+      "idade": "46",
+      "saldo": 34500,
+      "detalhes": "Arabe rico muito gostoso cheio de riquezas no corpo",
+      "status": "i",
+      "id": "f262"
+    },
+    {
+      "nome": "Heugenio",
+      "idade": "36",
+      "saldo": 55000,
+      "detalhes": "Maluco Beleza com experiencias Avancadas no que se Diz Apostas Milionarias",
+      "status": "i",
+      "id": "7b3f"
+    },
+    {
+      "id": "a1fa",
+      "nome": "Sabrina Sato",
+      "idade": "37",
+      "saldo": 60000,
+      "detalhes": "Apresentadora de Programas de Comedia para Adultos",
+      "status": "i"
+    },
+    {
+      "nome": "Vitor Rocha Marques",
+      "idade": "23",
+      "saldo": 100000,
+      "detalhes": "O cabeça da sessao mais monstra que tem na região",
+      "status": "i",
+      "id": "b8d2"
+    },
+    {
+      "id": "d9f7",
+      "nome": "Elis Regina",
+      "idade": "35",
+      "saldo": 58214,
+      "detalhes": "Voz suprema do Brasil",
+      "status": "a"
+    },
+    {
+      "id": "a132",
+      "nome": "Tiago Lemos",
+      "idade": "29",
+      "saldo": 74000,
+      "detalhes": "Maior POP da america",
+      "status": "a"
+    },
+    {
+      "id": "6257",
+      "nome": "Luan de Oliveira",
+      "idade": "34",
+      "saldo": 77000,
+      "detalhes": "Tecnica do skate super avancada",
+      "status": "a"
+    },
+    {
+      "id": "2c00",
+      "nome": "Hiago das Americas",
+      "idade": "27",
+      "saldo": 42020,
+      "detalhes": "Cara aleatorio que pensei de cabeca",
+      "status": "a"
+    },
+    {
+      "id": "0121",
+      "nome": "Jimi Hendrix",
+      "idade": "83",
+      "saldo": 46214,
+      "detalhes": "Maior guitarrisca de todos os tempos lenda viva",
+      "status": "a"
+    },
+    {
+      "id": "2834",
+      "nome": "BB King",
+      "idade": "90",
+      "saldo": 33325,
+      "detalhes": "Lenda do Blues Conhecido por seu xororo",
+      "status": "a"
+    },
+    {
+      "id": "337b",
+      "nome": "Lil Dre",
+      "idade": "25",
+      "saldo": 70133,
+      "detalhes": "Skatista Fez a video parte da thrasher um absurdo",
+      "status": "a"
+    },
+    {
+      "id": "c290",
+      "nome": "edecio",
+      "idade": "25",
+      "saldo": 20000,
+      "detalhes": "professor ",
+      "status": "a"
+    },
+    {
+      "id": "0f3c",
+      "nome": "buffalo bill",
+      "idade": "40",
+      "saldo": 300000,
+      "detalhes": "tamo na sesh, to de hornet, tamo na sesh, to de hornet",
+      "status": "a"
+    }
+  ],
+  "jogos": [
+    {
+      "id": "b8f5",
+      "jogador1": "b8d2",
+      "jogador2": "d9f7",
+      "aposta_j1": 32897,
+      "aposta_j2": 35786,
+      "valor_aposta": 68683,
+      "data": "2025-11-27 20:39:40"
+    },
+    {
+      "id": "cf2e",
+      "jogador1": "a132",
+      "jogador2": "6257",
+      "aposta_j1": 23000,
+      "aposta_j2": 23000,
+      "valor_aposta": 46000,
+      "data": "2025-11-27 20:40:40"
+    },
+    {
+      "id": "b372",
+      "jogador1": "2c00",
+      "jogador2": "0121",
+      "aposta_j1": 57980,
+      "aposta_j2": 49786,
+      "valor_aposta": 107766,
+      "data": "2025-11-27 20:42:31"
+    },
+    {
+      "id": "616f",
+      "jogador1": "2834",
+      "jogador2": "337b",
+      "aposta_j1": 34675,
+      "aposta_j2": 29867,
+      "valor_aposta": 64542,
+      "data": "2025-11-27 20:42:56"
+    },
+    {
+      "id": "dc38",
+      "jogador1": "c290",
+      "jogador2": "2834",
+      "aposta_j1": 30000,
+      "aposta_j2": 30000,
+      "valor_aposta": 60000,
+      "data": "2025-11-28 10:51:31"
+    },
+    {
+      "id": "48d4",
+      "jogador1": "2834",
+      "jogador2": "0121",
+      "aposta_j1": 2000,
+      "aposta_j2": 4000,
+      "valor_aposta": 6000,
+      "data": "2025-12-23 11:29:25"
+    },
+    {
+      "id": "d15e",
+      "jogador1": "c290",
+      "jogador2": "0f3c",
+      "aposta_j1": 10000,
+      "aposta_j2": 200000,
+      "valor_aposta": 210000,
+      "data": "2025-12-23 11:42:05"
+    },
+    {
+      "id": "7c94",
+      "jogador1": "f262",
+      "jogador2": "d9f7",
+      "aposta_j1": 3000,
+      "aposta_j2": 3000,
+      "valor_aposta": 6000,
+      "data": "2025-12-23 11:44:01"
+    },
+    {
+      "id": "b65d",
+      "jogador1": "d9f7",
+      "jogador2": "a132",
+      "aposta_j1": 3000,
+      "aposta_j2": 3000,
+      "valor_aposta": 6000,
+      "data": "2025-12-23 11:47:57"
+    }
+  ]
+}
