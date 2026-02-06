@@ -14,9 +14,10 @@
 - Uso da Lib Rich para interface decorativa
 
 ******************************************************************************
-<div style="display: inline-block"><br>
-  <img align="center" alt="vitor-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="vitor-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" />
-  <img align="center" alt="vitor-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
-
+<div align="center" style="display: inline-block"><br>
+  <img align="center" alt="vitor-TS" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>
+<div align="center" style="display: inline-block"><br>
+  <img align="center" alt="vitor-TS" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" />
+  <img align="center" alt="vitor-TS" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
 </div>
